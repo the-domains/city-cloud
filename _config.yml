@@ -1,0 +1,14 @@
+layout_spectrum: 0.27895848150365055
+typography_spectrum: 0.5547107548918575
+color:
+  brandStrength: 0.36748390505090356
+  lightness: 0.7704401665832847
+  saturation: 0.9813794991932809
+  rhythmicContrast: 0.295361555647105
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: City Cloud
